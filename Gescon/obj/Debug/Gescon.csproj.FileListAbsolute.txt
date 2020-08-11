@@ -1,0 +1,11 @@
+Z:\Stage IAI\Gescon\Gescon\bin\Debug\Gescon.exe.config
+Z:\Stage IAI\Gescon\Gescon\bin\Debug\Gescon.exe
+Z:\Stage IAI\Gescon\Gescon\bin\Debug\Gescon.pdb
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.csprojAssemblyReference.cache
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.Form1.resources
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.Properties.Resources.resources
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.csproj.GenerateResource.cache
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.csproj.CoreCompileInputs.cache
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.exe
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.pdb
+Z:\Stage IAI\Gescon\Gescon\obj\Debug\Gescon.Frmfirst.resources
